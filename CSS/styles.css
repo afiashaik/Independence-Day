@@ -17,16 +17,21 @@ h1{
 }
 
 .Flag{
-    width: 400px;
-    margin-left: 540px;
-    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-bottom: 60px;
 
 }
 
 .slogan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 200px;
     width: 200px;
-    margin-left: 650px;
+
 }
 
 h3{
